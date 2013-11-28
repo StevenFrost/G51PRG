@@ -3,6 +3,8 @@ G51PRG - Introduction to Programming
 
 Solutions for the University of Nottingham Introduction to Programming module, Autumn 2012/13. All solutions are written in standard GCC-compliant C.
 
+The module webpage can be found at http://g51prg.cs.nott.ac.uk/.
+
 
 Coursework Topics
 -----------------
