@@ -10,5 +10,5 @@ Coursework Topics
  1. Variables and Functions
  2. A very simple RSS Parser
  3. Files and Arrays: Finding the Largest Pair
- 4. Statistics Processing
+ 4. Word Lengths
  5. DisARMing ELF
